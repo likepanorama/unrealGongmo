@@ -14,7 +14,7 @@
       "Surname": "Smith",
       "PlayerDesc": "Likes video games and loves spending money on hotdogs and mustard",
       "MaxGold": "23",
-      "Team": "Blue"
+      "Team": "Red"
     },
     {
       "UserId": "2",
@@ -22,7 +22,7 @@
       "Surname": "Jones",
       "PlayerDesc": "Is into coding and landscape photography but saving for University",
       "MaxGold": "1325",
-      "Team": "Blue" 
+      "Team": "Red" 
     },
     {
       "UserId": "3",
