@@ -22,7 +22,7 @@
       "Surname": "Jones",
       "PlayerDesc": "Is into coding and landscape photography but saving for University",
       "MaxGold": "1325",
-      "Team": "Red" 
+      "Team": "Blue" 
     },
     {
       "UserId": "3",
@@ -30,7 +30,7 @@
       "Surname": "Brown",
       "PlayerDesc": "Mad about exercise but loves a good steak",
       "MaxGold": "754",
-      "Team": "Red" 
+      "Team": "Blue" 
     }
   ]
 }
